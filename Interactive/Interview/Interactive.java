@@ -28,4 +28,4 @@ public class Interactive {
     }
 }
 
-// solved by : Naif AlQahtani 
+// solved by : Naif AlQahtani  
