@@ -54,4 +54,4 @@ int32_t main() {
         cout << "! " << l + 1 << endl;
         cout.flush();
     }
-}
+} 
