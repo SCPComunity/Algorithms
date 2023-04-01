@@ -24,3 +24,4 @@ for _ in range(int(input())):
 
 # Solved by: Muaath Alqarni
  
+ 
