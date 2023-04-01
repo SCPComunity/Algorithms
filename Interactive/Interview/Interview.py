@@ -31,3 +31,4 @@ for _ in range(int(input())):
     print('!', left)
 
 # Solved by: Muaath Alqarni 
+ 
