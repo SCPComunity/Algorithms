@@ -14,3 +14,4 @@ This will take at most $\lceil \log_2{2 \cdot 10^5} \rceil = 18$ queries, which 
 
 The time complexity is $O(n)$ (for reading the input).
  
+ 
