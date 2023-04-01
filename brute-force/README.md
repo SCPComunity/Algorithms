@@ -7,3 +7,4 @@ Brute-force algorithms are often used when there are no known efficient algorith
 For example, if we wanted to find the smallest number in a list of integers, a brute-force algorithm would involve checking each number in the list one by one until we find the smallest one. Similarly, if we wanted to crack a password, a brute-force algorithm would involve trying every possible combination of characters until we find the correct one.
 
 While brute-force algorithms can be useful in some situations, they are not always the best approach for solving a problem.
+ 
