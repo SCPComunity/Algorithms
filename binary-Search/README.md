@@ -1,4 +1,5 @@
-Binary search is a searching algorithm used to find the position of a target value within a sorted array. It works by repeatedly dividing the array in half until the target value is found or the search space is exhausted.
+# Binary search 
+is a searching algorithm used to find the position of a target value within a sorted array. It works by repeatedly dividing the array in half until the target value is found or the search space is exhausted.
 
 Here are the steps to perform a binary search:
 
