@@ -1,4 +1,5 @@
-Algorithm implementation refers to the process of writing code to implement a particular algorithm in a programming language.
+# Algorithm implementation 
+refers to the process of writing code to implement a particular algorithm in a programming language.
 
 To implement an algorithm, you need to understand the problem it solves, the input it expects, and the output it produces. Once you have a clear understanding of these, you can begin writing the code to implement the algorithm.
 
