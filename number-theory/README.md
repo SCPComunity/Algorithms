@@ -1,4 +1,5 @@
-Number theory is a branch of mathematics that deals with the properties and behavior of integers. Number theory algorithms are used to solve problems related to integers, such as prime factorization, modular arithmetic, and Diophantine equations.
+# Number theory 
+is a branch of mathematics that deals with the properties and behavior of integers. Number theory algorithms are used to solve problems related to integers, such as prime factorization, modular arithmetic, and Diophantine equations.
 
 Some common number theory algorithms include:
 
