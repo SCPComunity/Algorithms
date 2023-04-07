@@ -19,3 +19,4 @@ Here are the steps to perform a binary search:
 If the target value is not found in the array, the algorithm will return -1 to indicate that the value was not present.
 
 Binary search has a time complexity of $O(log n)$, where n is the size of the array. This is because the search space is halved with each iteration, resulting in a logarithmic time complexity.
+
