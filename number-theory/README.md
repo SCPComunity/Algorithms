@@ -20,3 +20,4 @@ Some common number theory algorithms include:
 8- Miller-Rabin primality test: used to determine if a given number is prime.
 
 Number theory algorithms are important in cryptography, where they are used to develop secure encryption and decryption schemes. They are also used in computer science, engineering, and other fields where integers are used.
+
