@@ -1,0 +1,3 @@
+# Explanation:
+
+It can be shown that only squares of prime numbers are T-primesand that there are not too many of them — as many as there are prime numbers not greater than.Precompute these numbers (using, for example, the sieve of Eratosthenes)and store them in an array or an std::set, then we can answer each query by simplychecking whether the number in question is amongst the precomputed numbers.
