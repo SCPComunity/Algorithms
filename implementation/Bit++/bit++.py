@@ -14,3 +14,4 @@ for _ in range(n):
         x -= 1
 print(x)
 # Solved by: Muaath Alqarni
+
